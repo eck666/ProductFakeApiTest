@@ -1,0 +1,5 @@
+21-05-2022 23:56:44.257 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+21-05-2022 23:56:44.287 [Gauge] [INFO] Initializing specs cache with 0 specs
+21-05-2022 23:56:44.287 [Gauge] [INFO] Initializing steps cache with 0 steps
+21-05-2022 23:56:44.287 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53396
+21-05-2022 23:56:44.293 [Gauge] [ERROR] Unable to add directory C:\Users\ECK\Desktop\test\ProductFakeApiTest\specs to file watcher: GetFileAttributes: Sistem belirtilen dosyayı bulamıyor.

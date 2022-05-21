@@ -1,0 +1,44 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Ceket",
+      "price": 199,
+      "color": "Kirmizi",
+      "size": "M",
+      "stock": 44
+    },
+    {
+      "id": 2,
+      "name": "Pantolon",
+      "price": 169,
+      "color": "Beyaz",
+      "size": 34,
+      "stock": 11
+    },
+    {
+      "id": 3,
+      "name": "Yelek",
+      "price": 249,
+      "color": "Siyah",
+      "size": "L",
+      "stock": 66
+    },
+    {
+      "id": 4,
+      "name": "Kazak",
+      "price": 89,
+      "color": "Yeşil",
+      "size": "XL",
+      "stock": 85
+    },
+    {
+      "id": 5,
+      "name": "Mont",
+      "price": 699,
+      "color": "Kırmızı",
+      "size": "XL",
+      "stock": 17
+    }
+  ]
+}
