@@ -6,6 +6,6 @@ import static io.restassured.RestAssured.baseURI;
 public class BaseURL {
     @BeforeMethod
     public void setUpBaseURL(){
-        baseURI = "http://localhost:3000/products";
+        baseURI = "http://localhost:3000/productss";
     }
 }
